@@ -1,4 +1,4 @@
-int a=2,b=4
+if a=2,b=3
 x=raw-input()
 a,b=x.spilt()
 print (a**b)
